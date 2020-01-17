@@ -10,7 +10,7 @@
  
  API key can be obtained at http://www.octranspo.com/en/plan-your-trip/travel-tools/developers/dev-doc#v1_3_docs.
  
- My program retrives dat in JSON form. But OCTranspo's default setting is xml. So you need to add <URL>&format=json.
+OCTranspo's default data format is xml. To make it compilant with rest of the code, you must affix format=xml in the header.
  
  This link might be helpful in fetching api https://groups.google.com/forum/#!msg/dataott/FZ3SXb0qxSY/k3VWflbZBwAJ
  
