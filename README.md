@@ -6,7 +6,7 @@
  Author   : Tejus Revi
  License  : Open License 
  
- Notes    : OCTranspo requires developers to generate their own API key nd affix with the URL.
+ Notes    : OCTranspo requires developers to generate their own API key and affix with the URL.
  
  API key can be obtained at http://www.octranspo.com/en/plan-your-trip/travel-tools/developers/dev-doc#v1_3_docs.
  
